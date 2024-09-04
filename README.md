@@ -25,12 +25,12 @@ either to verify your attendee through card or face or
 both
 
 
-Download [SafeEventUserManagement Software](https://)
+Get Started. Download [SafeEventUserManagement Software](https://)
 <br>
-Download [SafeEvent User Manual](https://)
+Get Tutorial on how to setup and use SafeEvent. Download [SafeEvent User Manual](https://)
 
 #### Author 
-<br>
+
 Name: Adebayo Taiwo A.
 <br>
 Whatsapp: +2347013943034
