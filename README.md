@@ -25,9 +25,10 @@ either to verify your attendee through card or face or
 both
 
 
-Get Started. Download [SafeEventUserManagement Software](https://)
+Get Started. Download [SafeEventUserManagement Software](https://drive.google.com/file/d/1w8myYI8wiwJ_MS5WmBKHtPj58_0oO-pB/view?usp=sharing)
 <br>
-Get Tutorial on how to setup and use SafeEvent. Download [SafeEvent User Manual](https://)
+
+Get Tutorial on how to setup and use SafeEvent. Download [SafeEvent User Manual](https://drive.google.com/file/d/1wKQpu9DHaXti9CuFurLlmBR96A1rN2K2/view?usp=sharing)
 
 #### Author 
 
